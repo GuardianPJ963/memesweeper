@@ -38,6 +38,7 @@ void Game::Go()
 
 void Game::UpdateModel()
 {
+	// Hello Git
 }
 
 void Game::ComposeFrame()
